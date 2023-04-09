@@ -3,7 +3,6 @@
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "https://ib-bib.github.io/VolunteerApp_FrontEnd",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
